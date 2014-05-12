@@ -4,7 +4,7 @@ After some time discussing and studying some of the technologies we'd like to in
 
 | Need | Motivation | Tools | Related Tools |
 |------|------------|-------|---------------|
-| Scaffold | Several tools. Several ways. Several Practices. Need to organize, and give some good foundation - best practices, good design.	| yeoman | | 
+| Scaffold | Several tools. Several ways. Several Practices. Need to organize, and give some good foundation - best practices, good design.	| [yeoman] (http://yeoman.io/) | | 
 | Automation | Lots of tasks to execute. Compile. Test. Minify. Concat. Etc. | grunt | gulp |
 | Dependency Management | Applications are getting complex. | They rely on several other libraries and frameworks. | bower | |
 | Dynamic Loading | Big projects are split among several pieces of js for the sake of modularization. No all of them should be loaded at the same time.		| require | curl.js, browserify, webpack |
