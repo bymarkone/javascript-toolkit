@@ -18,10 +18,13 @@ After some time discussing and studying some of the technologies we'd like to in
 | Language Utilities | Clean code, functional programming style, reactive programming features, helpers and utilities | [lodash] (http://lodash.com/), [underscore] (http://underscorejs.org/), [promise] (https://www.promisejs.org/), [fn.js] (http://eliperelman.com/fn.js/), [q.js](https://github.com/kriskowal/q) | | 
 | CI | Continuous integration, continuous delivery, continuous deployment | [travis ci] (https://travis-ci.org/) | [jenkins] (http://jenkins-ci.org/), [concrete] (https://github.com/ryankee/concrete), [semaphore] (https://semaphoreapp.com/), [go] (http://www.thoughtworks.com/products/go-continuous-delivery), [snap] (https://snap-ci.com/) | |
 | Other Languages | Have a syntactic sugar element, or even completelly different syntax (that in the end turn into javascript to run in the browser) | [coffeescript] (http://coffeescript.org/) | [clojurescript] (https://github.com/clojure/clojurescript), [typescript] (http://www.typescriptlang.org/)| |
-| Style - CSS Preprocessors | [sass] (http://sass-lang.com/), [less] (http://lesscss.org/) | | | 
-| Style - Preprocessors Libs| [compass] (http://compass-style.org/), [bourbon](http://bourbon.io/) | | | 
-| Style - CSS Helpers| [susy] (http://susy.oddbird.net/), [zenGrids] (http://zengrids.com/), [neat] (https://github.com/thoughtbot/neat), [normalize] (http://necolas.github.io/normalize.css/), [modernizr] (http://modernizr.com/), [flexbox] (http://css-tricks.com/snippets/css/a-guide-to-flexbox/) | | | 
-| Style - CSS Frameworks| [boostrap] (http://getbootstrap.com/), [foundation] (http://foundation.zurb.com/), [skeleton] (http://www.getskeleton.com/) | | | 
-| Style - Preprocessors | [sass] (http://sass-lang.com/), [less] (http://lesscss.org/), [compass] (http://compass-style.org/), [normalize] (http://necolas.github.io/normalize.css/), [modernizr] (http://modernizr.com/), [boostrap] (http://getbootstrap.com/), [flexbox] (http://css-tricks.com/snippets/css/a-guide-to-flexbox/), [foundation] (http://foundation.zurb.com/), [skeleton] (http://www.getskeleton.com/) | | | 
 | Other Javascript | concat, [minify](http://minifiedjs.com/), [uglify](http://marijnhaverbeke.nl/uglifyjs), [lint] (http://www.jslint.com/), [jshint] (http://www.jshint.com/), watch, [page](http://visionmedia.github.io/page.js/), [director] (https://github.com/flatiron/director), [crossroads] (http://millermedeiros.github.io/crossroads.js/), [moment.js] (http://momentjs.com/) | | |
-| Other General | Google's Pagespeed, Yahoo's YSlow, Chrome Developer Tools, Firebug, FireFinder, Font Icons| | |
+
+| Style | | 
+|-------|-|
+| Style - CSS Preprocessors | [sass] (http://sass-lang.com/), [less] (http://lesscss.org/) | 
+| Style - Preprocessors Libs| [compass] (http://compass-style.org/), [bourbon](http://bourbon.io/) | 
+| Style - CSS Helpers| [susy] (http://susy.oddbird.net/), [zenGrids] (http://zengrids.com/), [neat] (https://github.com/thoughtbot/neat), [normalize] (http://necolas.github.io/normalize.css/), [modernizr] (http://modernizr.com/), [flexbox] (http://css-tricks.com/snippets/css/a-guide-to-flexbox/) | 
+| Style - CSS Frameworks| [boostrap] (http://getbootstrap.com/), [foundation] (http://foundation.zurb.com/), [skeleton] (http://www.getskeleton.com/) | 
+| Style - Preprocessors | [sass] (http://sass-lang.com/), [less] (http://lesscss.org/), [compass] (http://compass-style.org/), [normalize] (http://necolas.github.io/normalize.css/), [modernizr] (http://modernizr.com/), [boostrap] (http://getbootstrap.com/), [flexbox] (http://css-tricks.com/snippets/css/a-guide-to-flexbox/), [foundation] (http://foundation.zurb.com/), [skeleton] (http://www.getskeleton.com/) | 
+| Other General | Google's Pagespeed, Yahoo's YSlow, Chrome Developer Tools, Firebug, FireFinder, Font Icons| 
