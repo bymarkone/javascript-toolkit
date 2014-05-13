@@ -5,7 +5,6 @@ This is an attempt to organize the recent explosion of Javascript based technolo
 After some time discussing and studying some of the technologies we'd like to include in this toolkit, we realized that more important that the tool itself, **is the motivation that is behind that tool**.
 
 
-
 | Need | Motivation | Tools | Related Tools |
 |------|------------|-------|---------------|
 | Scaffold	 | Several tools. Several ways. Several Practices. Need to organize, and give some good foundation - best practices, good design.	| [yeoman] (http://yeoman.io/) | | 
@@ -20,8 +19,10 @@ After some time discussing and studying some of the technologies we'd like to in
 | Other Languages | Have a syntactic sugar element, or even completelly different syntax (that in the end turn into javascript to run in the browser) | [coffeescript] (http://coffeescript.org/) | [clojurescript] (https://github.com/clojure/clojurescript), [typescript] (http://www.typescriptlang.org/)| |
 | Other Javascript | concat, [minify](http://minifiedjs.com/), [uglify](http://marijnhaverbeke.nl/uglifyjs), [lint] (http://www.jslint.com/), [jshint] (http://www.jshint.com/), watch, [page](http://visionmedia.github.io/page.js/), [director] (https://github.com/flatiron/director), [crossroads] (http://millermedeiros.github.io/crossroads.js/), [moment.js] (http://momentjs.com/) | | |
 
-| Style | | 
-|-------|-|
+### Style
+
+| Need  | Tools | 
+|-------|-------|
 | Style - CSS Preprocessors | [sass] (http://sass-lang.com/), [less] (http://lesscss.org/) | 
 | Style - Preprocessors Libs| [compass] (http://compass-style.org/), [bourbon](http://bourbon.io/) | 
 | Style - CSS Helpers| [susy] (http://susy.oddbird.net/), [zenGrids] (http://zengrids.com/), [neat] (https://github.com/thoughtbot/neat), [normalize] (http://necolas.github.io/normalize.css/), [modernizr] (http://modernizr.com/), [flexbox] (http://css-tricks.com/snippets/css/a-guide-to-flexbox/) | 
