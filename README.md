@@ -1,8 +1,10 @@
 ## The Javascript Toolkit
 
-This is an attempt to organize the recent explosion of Javascript based technologies and frameworks into a coherent toolkit to be used by a web application developer.
+This is an attempt by some colleagues and I to organize the recent explosion of Javascript based technologies and frameworks into a coherent toolkit to be used by a web application developer.
 
 After some time discussing and studying some of the technologies we'd like to include in this toolkit, we realized that more important that the tool itself, **is the motivation that is behind that tool**.
+
+This is very dynamic and is being updated often. Please, send your feedback.
 
 
 | Need | Motivation | Tools | Related Tools |
