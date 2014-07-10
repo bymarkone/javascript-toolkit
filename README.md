@@ -9,7 +9,7 @@ This is very dynamic and is being updated often. Please, send your feedback.
 | Need | Motivation | Tools | 
 |------|------------|-------|
 | Scaffold | Several tools. Several ways. Several Practices. Need to organize, and give some good foundation - best practices, good design.	| [yeoman] (http://yeoman.io/), Seed Projects, [Html5Boilerplate](http://html5boilerplate.com/), bootstraps (e.g. Twitter Bootstrap) | 
-| Automation | Lots of tasks to execute. Compile. Test. Minify. Concat. Etc. | [grunt] (http://gruntjs.com/) [gulp] (http://gulpjs.com/), [broccoli] (https://www.npmjs.org/package/broccoli), [component](http://componentjs.com/), ...ake's (e.g. Make, Rake, etc.) |
+| Automation | Lots of tasks to execute. Compile. Test. Minify. Concat. Etc. | [grunt] (http://gruntjs.com/), [gulp] (http://gulpjs.com/), [broccoli] (https://www.npmjs.org/package/broccoli), [component](http://componentjs.com/), ...ake's (e.g. Make, Rake, etc.) |
 | Automation Utilities | Tasks that can be put in the build pipeline. | [minify](http://minifiedjs.com/), [uglify](http://marijnhaverbeke.nl/uglifyjs), [lint] (http://www.jslint.com/), [jshint] (http://www.jshint.com/), watch |
 | Dependency Management | Applications are getting complex. They rely on several other libraries and frameworks. | [bower] (http://bower.io/), [component](http://componentjs.com/), [NPM](https://www.npmjs.org/) |
 | Dynamic Loading | Big projects are split among several pieces of js for the sake of modularization. No all of them should be loaded at the same time. | [require] (http://requirejs.org/), [curl.js] (https://github.com/cujojs/curl), [amd.js API](https://github.com/amdjs), [async.js](https://github.com/caolan/async/) |
